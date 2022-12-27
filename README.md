@@ -1,3 +1,9 @@
+# Setup
+
+## Create an app
+
+- `npx create-next-app -e with-tailwindcss myApp`
+
 # Turborepo starter
 
 This is an official npm starter turborepo.
